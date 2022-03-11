@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "openapi": []
+  },
+  "triggers": [
+    {
+      "name": "collectTrigger",
+      "type": "timer",
+      "config": "0 0 8,12,16,20 * * * *"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "miniprogramRoot": "./",
+    "cloudfunctionRoot": "cloud/functions/",
+    "projectname": "weapp-hexo-trover",
+    "description": "a weapp for hexo blog",
+    "appid": "",
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "postcss": false,
+        "minified": false
+    },
+    "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+    "libVersion": "2.19.4",
+    "compileType": "miniprogram"
+}
