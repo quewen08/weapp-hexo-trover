@@ -1,6 +1,6 @@
 ## 协议
 
-[MIT](https://github.com/izhaoo/hexo-theme-zhaoo/blob/master/LICENSE) License
+[MIT](https://github.com/quewen08/weapp-hexo-trover/blob/master/LICENSE) License
 
 ## 环境相关
 
